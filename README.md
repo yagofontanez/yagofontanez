@@ -1,9 +1,7 @@
 ### Olá, meu nome é Yago Fontanez!
 Tenho 18 anos e sou estudante de Sistemas de Informação em Bauru-SP, sou Designer Gráfico em uma empresa de Sistemas de Informação em Dois Córregos-SP. Almejo ser desenvolvedor Front-end, com foco em HTML/CSS/JS.
 
-E-mail: yagofontanez20@icloud.com
-LinkedIn: www.linkedin.com/in/yagofontanez
-Portfólio: https://yago-fontanez---portifolio.webnode.page
+<sub>E-mail: yagofontanez20@icloud.com | LinkedIn: www.linkedin.com/in/yagofontanez | Portfólio: https://yago-fontanez---portifolio.webnode.page</sub>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="YagoPS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
