@@ -1,5 +1,5 @@
 ### Olá, meu nome é Yago Fontanez!
-Tenho 18 anos e sou estudante de Sistemas de Informação em Bauru-SP, sou Designer Gráfico em uma empresa de Sistemas de Informação em Dois Córregos-SP.
+Tenho 18 anos e sou estudante de Sistemas de Informação em Bauru-SP, sou Designer Gráfico em uma empresa de Sistemas de Informação em Dois Córregos-SP. Almejo ser desenvolvedor Front-end, com foco em HTML/CSS/JS.
 
 E-mail: yagofontanez20@icloud.com | LinkedIn: www.linkedin.com/in/yagofontanez
 
@@ -14,5 +14,5 @@ E-mail: yagofontanez20@icloud.com | LinkedIn: www.linkedin.com/in/yagofontanez
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagofontanez&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagofontanez&layout=compact&theme=tokyonight)
 
