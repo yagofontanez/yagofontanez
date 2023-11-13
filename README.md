@@ -16,3 +16,5 @@ Tenho 18 anos e sou estudante de Sistemas de Informação em Bauru-SP, sou Desig
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagofontanez&layout=compact&theme=tokyonight)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d75fe6e-d22e-4b07-bc04-cd8ef1b9549e/deploy-status)](https://app.netlify.com/sites/previssdotempo/deploys)
+
