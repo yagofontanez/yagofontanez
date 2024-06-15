@@ -1,7 +1,7 @@
 ### Olá, meu nome é Yago Fontanez!
 Tenho 18 anos e sou estudante de Sistemas de Informação em Bauru-SP, sou Desenvolvedor Web Fullstack Trainee em uma empresa de Sistemas de Informação em Dois Córregos-SP.
 
-<sub>E-mail: yagofontanez20@icloud.com | LinkedIn: www.linkedin.com/in/yagofontanez | Portfólio: https://yagofontanez.netlify.app/</sub>
+<sub>E-mail: yagofontanez20@icloud.com | LinkedIn: www.linkedin.com/in/yagofontanez | Portfólio: https://yagofontanezcurriculo.netlify.app/</sub>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="YagoReact" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
