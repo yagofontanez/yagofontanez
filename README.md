@@ -38,3 +38,5 @@ Estudando:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagofontanez&layout=compact&theme=tokyonight)
 
 
+![snake gif](https://github.com/yagofontanez/yagofontanez/blob/output/github-contribution-grid-snake.svg)
+
