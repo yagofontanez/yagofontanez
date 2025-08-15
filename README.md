@@ -37,7 +37,3 @@ Meu foco é criar produtos que entreguem valor real para as pessoas, com **códi
 </p>
 
 ---
-
-<p align="center">
-  💡 <i>"Código limpo é como uma boa piada — não precisa de explicação."</i>
-</p>
