@@ -25,6 +25,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=yagofontanez&color=00FF94&style=flat-square&label=profile+views" />
 
+![uptime](https://upstat-backend.onrender.com/api/badge/yago)
+
 </div>
 
 ---
