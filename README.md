@@ -1,7 +1,6 @@
 # Yago Fontanez
 
-Fullstack dev shipping from Bauru, Brasil &nbsp;🇧🇷  
-Currently building [**UpStat**](https://upstat.online) — uptime monitoring for devs who care.
+Fullstack &amp; desktop developer &nbsp;·&nbsp; Bauru, SP &nbsp;🇧🇷
 
 [linkedin](https://www.linkedin.com/in/yagofontanez) &nbsp;·&nbsp; [portfolio](https://yagof-dev.netlify.app) &nbsp;·&nbsp; [twitter](https://twitter.com/yagofontanez) &nbsp;·&nbsp; [email](mailto:dev.yagofontanez@gmail.com)
 
@@ -10,86 +9,96 @@ Currently building [**UpStat**](https://upstat.online) — uptime monitoring for
 ```
 $ yago --status
 
-  working        Fullstack @ umClique
-  building       UpStat (upstat.online) · MartinsAdviser
-  learning       distributed systems · go internals · in public
-  available      interesting problems · paid collaborations
-  philosophy     build first · refactor when it hurts
-  location       Bauru, SP · Brasil · GMT-3
-  commits        small · often · never on fridays
+  role        fullstack & desktop developer
+  building    DotPilot
+  learning    distributed systems · go internals
+  open to     paid collaborations
+  where       Bauru, SP · GMT-3
 ```
 
 ---
 
-## yago --now
+## yago --projects
 
-### ⬆ &nbsp; UpStat &nbsp;—&nbsp; uptime monitoring SaaS
+### DotPilot
 
-Hosted Uptime Kuma's cooler cousin. Built for the Brazilian market
-(PIX billing, Asaas integration) but ships globally. Has an AI Copilot
-that takes _"monitor my staging API and alert me only on weekdays"_
-and just **does it**.
+CRM for US carriers and trucking companies. Most of the work is in permits:
+the rules for oversize and overweight loads change from state to state, and
+keeping a fleet compliant means tracking all of them at once. DotPilot does
+that next to the rest of the operation.
 
 ```
-  HTTP / HTTPS checks         p50 · p95 · p99 latency
-  Multi-channel alerts        email · whatsapp · discord · sms
-  Status pages                90-day calendar history
-  SDKs everywhere             JS · Go · Flutter · MCP for Claude
+  permits      state-by-state rules and requirements
+  loads        kanban board, integrated with the pipeline
+  drivers      records and document control
+  reports      ai-generated, per driver, per load, per period
 ```
 
-[**upstat.online**](https://upstat.online) &nbsp;·&nbsp; live status: &nbsp;![](https://api.upstat.online/api/badge/yago) &nbsp;_&nbsp;(yes, it monitors itself)_
+<sub>`react` `node` `postgres` `whatsapp api`</sub>
 
-### 💬 &nbsp; MartinsAdviser &nbsp;—&nbsp; a CRM that doesn't suck
+### UpStat &nbsp;<sub>· shut down</sub>
 
-Messaging-first pipeline for advisors who hate Salesforce. WhatsApp +
-email. Built for people, not for sales managers.
+Uptime monitoring SaaS. Ran in production for a while, then I closed it.
+HTTP checks with p50/p95/p99 latency, status pages with 90 days of history,
+alerts over email, WhatsApp, Discord and SMS, and PIX billing through Asaas.
+It also had a copilot that set up monitors from a plain description, like
+_"monitor my staging API, weekdays only"_.
+
+I published SDKs in JS, Go and Flutter, and an MCP server for Claude.
+
+<sub>`go` `typescript` `postgres` `docker` `flutter`</sub>
 
 ---
 
 ## yago --stack
 
 ```
-  frontend     react · next · typescript · vite
-  mobile       react native · flutter
-  backend      node · express · fastapi · laravel · spring boot · go
-  data         postgresql · supabase
-  infra        docker · render · netlify · hostinger
-  glue         n8n · make · resend · asaas · pix
+  languages   typescript · c# · go · java · php · dart
+  frontend    react · next · blazor · vite
+  desktop     .net · wpf · winforms · electron
+  mobile      react native · flutter
+  backend     node · .net · fastapi · laravel · spring boot
+  data        postgresql · sql server · supabase
+  infra       docker · render · netlify
+  glue        n8n · make · resend · asaas · pix
 ```
-
-No tribal loyalty &mdash; I pick the tool the problem asks for.
 
 ---
 
 ## yago --open-source
 
-| package          | where   | what it does                       |
-| ---------------- | ------- | ---------------------------------- |
-| `upstat-sdk`     | npm     | TypeScript SDK for UpStat          |
-| `upstat-mcp`     | npm     | MCP server — Claude AI integration |
-| `upstat-cli`     | go      | binary CLI                         |
-| `upstat-flutter` | pub.dev | Flutter SDK                        |
+| package          | registry | what it does              |
+| ---------------- | -------- | ------------------------- |
+| `upstat-sdk`     | npm      | TypeScript SDK for UpStat |
+| `upstat-mcp`     | npm      | MCP server for Claude     |
+| `upstat-cli`     | go       | single-binary CLI         |
+| `upstat-flutter` | pub.dev  | Flutter SDK               |
 
-```bash
-$ npm     install upstat-sdk
-$ go      install github.com/yagofontanez/upstat-cli@latest
-$ flutter pub add upstat
-```
+All four came out of UpStat and are still published. The MCP server is the
+one worth reading if you want to see a service wired into Claude.
 
 ---
 
-## yago --activity
+## yago --stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yagofontanez&bg_color=00000000&color=e6e6e6&line=00b86b&point=ffffff&area=true&hide_border=true&area_color=00b86b33&hide_title=true">
   <img alt="commit activity, last 30 days" src="https://github-readme-activity-graph.vercel.app/graph?username=yagofontanez&bg_color=00000000&color=1a1a1a&line=00b86b&point=0a0a0a&area=true&hide_border=true&area_color=00b86b22&hide_title=true">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yagofontanez&show_icons=true&hide_border=true&bg_color=00000000&title_color=00b86b&text_color=e6e6e6&icon_color=00b86b">
+  <img height="150" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=yagofontanez&show_icons=true&hide_border=true&bg_color=00000000&title_color=00b86b&text_color=1a1a1a&icon_color=00b86b">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yagofontanez&layout=compact&hide_border=true&bg_color=00000000&title_color=00b86b&text_color=e6e6e6">
+  <img height="150" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagofontanez&layout=compact&hide_border=true&bg_color=00000000&title_color=00b86b&text_color=1a1a1a">
+</picture>
+
 ---
 
 ## yago --ping
 
-> _Tem algo pra construir? Prefiro construir do que falar sobre construir._
+Email is the fastest way to reach me.
 
-→ &nbsp;[**dev.yagofontanez@gmail.com**](mailto:dev.yagofontanez@gmail.com)  
-→ &nbsp;Leio tudo.
+→ &nbsp;[**dev.yagofontanez@gmail.com**](mailto:dev.yagofontanez@gmail.com)
